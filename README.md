@@ -26,3 +26,6 @@
 
 ##### Recibo de la transacción:
 ![Alt text](https://github.com/CarlosLopez98/Actividad_roles_FIS/blob/master/Interfaz%20cajero-Recibo.png)
+
+##### Posibles mensajes:
+![Alt text](https://github.com/CarlosLopez98/Actividad_roles_FIS/blob/master/Interfaz%20cajero-Mensajes.png)
