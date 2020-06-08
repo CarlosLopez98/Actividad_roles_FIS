@@ -5,7 +5,7 @@
 - Jairo Murcia Ardila - 20162020047
 
 #### Basados en el siguiente diagrama de casos de uso
-![Alt text](https://github.com/CarlosLopez98/Actividad_roles_FIS/blob/master/casosdeuso.jpeg)
+![Alt text](https://github.com/CarlosLopez98/Actividad_roles_FIS/blob/master/Diagrama%20casos%20de%20usos.jpeg)
 
 #### Se plantean las siguientes interfacez de usuario
 
