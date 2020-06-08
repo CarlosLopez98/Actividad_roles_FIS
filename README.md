@@ -1,1 +1,6 @@
-# Actividad_roles_FIS
+# Actividad de Roles - FIS
+
+## Integrantes:
+- Carlos Eduardo López - 20162021295
+- Cristian Gutierrez Gomez - 201
+- Jairo Murcia Ardila - 201
