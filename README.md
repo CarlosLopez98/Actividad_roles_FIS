@@ -1,5 +1,7 @@
 # Actividad de Roles - FIS
 
+Rol: Diseñador de Interfaz de Usuario
+
 ## Integrantes:
 - Carlos Eduardo López - 20162021295
 - Jairo Murcia Ardila - 20162020047
