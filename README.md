@@ -5,7 +5,7 @@
 - Jairo Murcia Ardila - 20162020047
 
 #### Basados en el siguiente diagrama de casos de uso
-![Alt text](https://github.com/CarlosLopez98/Actividad_roles_FIS/blob/master/Diagrama%20casos%20de%20usos.jpeg)
+![Alt text](https://github.com/CarlosLopez98/Actividad_roles_FIS/blob/master/casosdeuso.jpeg)
 
 #### Se plantean las siguientes interfacez de usuario
 
@@ -20,3 +20,9 @@
 
 ##### Retiro de dinero:
 ![Alt text](https://github.com/CarlosLopez98/Actividad_roles_FIS/blob/master/Interfaz%20cajero-Retirar_dinero.png)
+
+##### Transferencia de dinero:
+![Alt text](https://github.com/CarlosLopez98/Actividad_roles_FIS/blob/master/Interfaz%20cajero-Transferencia.png)
+
+##### Recibo de la transacción:
+![Alt text](https://github.com/CarlosLopez98/Actividad_roles_FIS/blob/master/Interfaz%20cajero-Recibo.png)
